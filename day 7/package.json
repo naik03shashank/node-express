@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node express2.js",
+    "start:dev": "node express2.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
