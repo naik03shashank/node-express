@@ -1,0 +1,12 @@
+{
+  "name": "day-11-mvc-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node \"project mvc/server.js\"",
+    "start:dev": "node \"project mvc/server.js\""
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
